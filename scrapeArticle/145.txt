@@ -1,0 +1,9 @@
+Title: ['Blockchain in Fintech']
+Description: Blockchain or the Distributed Ledger Technology has
+already been around for some time now. Cryptocurrencies like Bitcoin, based on
+the Blockchain technology, are making entry into the formal finance world and
+increasingly becoming a medium for exchange. Though there are many potential
+use cases for Cryptocurrencies and the Indian Government is very critical about
+implementing the technology in banking and finance, it still has a lot of
+issues to be resolved before we can commercially use it for transactions. 
+

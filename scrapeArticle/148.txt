@@ -1,0 +1,3 @@
+Title: ['Big Data Analytics in Healthcare']
+Description: Quality and affordable healthcare is a vision of all governments across the globe. The high cost of Medical service and lack of sufficient infrastructure is detrimental to this vision. In developed countries such as the U.S., reducing healthcare cost is an agenda point of all the politicians.  Even in India, affordable healthcare will be as important as 
+

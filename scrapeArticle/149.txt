@@ -1,0 +1,3 @@
+Title: ['Business Analytics In The Healthcare Industry']
+Description: Analytics is a statistical scientific process of discovering and presenting the meaningful patterns that can be found in data. While business analytics refers to the skills, technologies, applications, practices, computer programming and operations research for the continuous exploration of data to gain insight that drives business decisions.
+

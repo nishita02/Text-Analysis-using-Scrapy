@@ -1,0 +1,3 @@
+Title: ['Should people wear fabric gloves? Seeking evidence regarding the differential transfer of COVID-19 (or coronaviruses generally) between surfaces?']
+Description: Is there any evidence about whether fabric or bare hands would spread covid-19 more from one surface to another? (e.g. opening a door using a fabric glove). Assuming the fabric doesn’t touch your face, like bare hands easily do, even with efforts to remember not to people struggle to remember. I’ve been thinking of prompts to prevent face touching, such as wearing fabric gloves when out and about, but I don’t want to promote this unless the fabric is at-least-no-worse than hands for transferring the virus between surfaces.
+

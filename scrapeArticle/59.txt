@@ -1,0 +1,3 @@
+Title: ['How Data Analytics and AI are used to halt the COVID-19 Pandemic?']
+Description: Even though COVID-19 has not yet halted and we are facing the nth wave of the coronavirus outbreak across several countries, most notably the US, India, and Brazil. It is a fact that Data Analytics and AI are the big guns of our artillery in this fight against the COVID-19 pandemic. It has helped us in several stages of this outbreak, like the detection of its first outbreak, vaccine development and manufacturing contact tracing, and future hotspot detection. Some of these interesting applications are discussed in this article.
+

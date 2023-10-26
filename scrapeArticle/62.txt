@@ -1,0 +1,3 @@
+Title: ['How Google fit measure heart and respiratory rates using a phone camera?']
+Description: It was in March that Tech giant Google came up with a ground-breaking announcement of Google Fit able to measure one’s heart and respiratory rates using their smartphones. This news spread like wildfire. Instantly became the talk of the town. This feature was said to be available to the Google Fit app exclusively to its Pixel phone users. Google also plans to expand to its other Android devices in the future.
+

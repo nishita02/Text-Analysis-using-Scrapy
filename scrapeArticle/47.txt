@@ -1,0 +1,3 @@
+Title: ['How to protect future data and its privacy?']
+Description: Before the internet, information was in some ways restricted and more centralized. The only mediums of information were books, newspapers, and word of mouth, etc. But now with the advent of the internet and improvements to computer technology (Moore’s Law), information and data skyrocketed, and it has become this open-system, where information can be distributed to people without any kind of limits.
+
